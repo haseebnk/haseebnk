@@ -1,6 +1,6 @@
 Hi there 👋
-🔭 I’m currently working on JavaScript, TypeScript, React-Native, Ionic-Native, Angular and Laravel
-🌱 I’m currently learning PHP(Laravel), NodeJs and Angular
+🔭 I’m currently working on React-Native, JavaScript, TypeScript,  Ionic-Native, Angular and Wordpress 
+🌱 I’m currently  React-Native(Higher Level), NodeJs and Angular
 👯 I’m looking to collaborate on more Open Source Projects
 ⚡ Fun fact: Tabs > Spaces
 📫 How to reach me --->> haseebnk37@gmail.com || haseeb.tech

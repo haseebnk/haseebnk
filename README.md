@@ -1,7 +1,28 @@
 ![Haseeb3](https://user-images.githubusercontent.com/42865210/164467407-c5bc59de-1c4f-4c62-9a41-4834395abe98.png)
 
 
-📫 How to reach me --->> haseebnk37@gmail.com || haseeb.tech
+
+<div id="badges">
+  </a>
+  
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Haseeb.tech-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Haseeb.tech Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="your-twitter-URL">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   
+</div>
+
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseebnk&show_icons=true&theme=radical)

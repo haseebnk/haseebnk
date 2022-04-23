@@ -5,13 +5,13 @@
 <div id="badges">
   </a>
   
-  <a href="haseeb.tech-URL">
+  <a href="haseeb.tech">
     <img src="https://img.shields.io/badge/Haseeb.tech-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Haseeb.tech Badge"/>
   </a>
   <a href="https://github.com/haseebnk">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/haseebnk">
     <img src="https://img.shields.io/badge/twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://www.facebook.com/malikhaseebnawaz">

@@ -5,7 +5,7 @@
 <div id="badges">
   </a>
   
-  <a href="haseeb.tech">
+  <a href="https://haseeb.tech/#/home">
     <img src="https://img.shields.io/badge/Haseeb.tech-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Haseeb.tech Badge"/>
   </a>
   <a href="https://github.com/haseebnk">

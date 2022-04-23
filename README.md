@@ -5,16 +5,16 @@
 <div id="badges">
   </a>
   
-  <a href="your-linkedin-URL">
+  <a href="haseeb.tech-URL">
     <img src="https://img.shields.io/badge/Haseeb.tech-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Haseeb.tech Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://github.com/haseebnk">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="your-twitter-URL">
+   <a href="https://www.facebook.com/malikhaseebnawaz">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
   </a>
    

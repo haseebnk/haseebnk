@@ -9,17 +9,17 @@
   </a>
   
   <a href="https://haseeb.tech/#/home">
-    <img src="https://img.shields.io/badge/Haseeb.tech-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Badge"/>
+    <img src="https://img.shields.io/badge/Haseeb.tech-blueviolet?style=for-the-badge&logo=&logoColor=white" alt=" Badge"/>
   </a>
  <a href="https://twitter.com/haseebnk">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  
    <a href="https://github.com/haseebnk">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://www.facebook.com/malikhaseebnawaz">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    
 </div>

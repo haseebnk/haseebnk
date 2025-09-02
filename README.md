@@ -74,11 +74,20 @@ When I’m not coding, I enjoy **teaching, gaming, and playing table tennis** �
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebnk&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=haseebnk&theme=tokyonight" height="160"/>
-</p>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebnk&layout=compact&theme=tokyonight" height="160"/>
-</p>  
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=haseebnk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haseebnk&theme=radical&hide_border=true" height="180" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebnk&layout=compact&theme=radical&hide_border=true" height="180" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebnk&theme=radical&hide_border=true&area=true" height="280" />
+
+</div>
+

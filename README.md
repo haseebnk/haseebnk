@@ -75,7 +75,7 @@ When Iâ€™m not coding, I enjoy **teaching, gaming, and playing table tennis** ðŸ
 
 ## ðŸ“Š GitHub Analytics
 
-<div align="center">
+
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=haseebnk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
@@ -89,5 +89,5 @@ When Iâ€™m not coding, I enjoy **teaching, gaming, and playing table tennis** ðŸ
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebnk&theme=radical&hide_border=true&area=true" height="280"/>
 
-</div>
+
 

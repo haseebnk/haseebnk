@@ -77,17 +77,11 @@ When Iâ€™m not coding, I enjoy **teaching, gaming, and playing table tennis** ðŸ
 
 
 
-  <!-- GitHub Stats -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haseebnk&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=haseebnk&theme=radical&hide_border=true" height="180"/>
-
-  <!-- Top Languages -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebnk&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebnk&layout=compact&theme=radical&hide_border=true" height="180"/>
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebnk&theme=radical&hide_border=true&area=true" height="280"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebnk&theme=radical&hide_border=true&area=true" height="280" />
+</div>
 
 

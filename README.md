@@ -1,4 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/42865210/164467407-c5bc59de-1c4f-4c62-9a41-4834395abe98.png)
 
 # Muhammad Haseeb  
 ### 🚀 Full Stack JavaScript Engineer | React Native Specialist  
